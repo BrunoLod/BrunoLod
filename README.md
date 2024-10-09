@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Bruno Loducca, prazer! 👋
 
-- 🎓 Estudante de Engenharia da Computação.
+- 🎓 Estudante de Inteligência Artificial - FIAP.
 
 - 🔭 Interesse em Deep Learning, IA's generativas, Engenharia de Machine Learning e desenvolvimento de software. 
 
