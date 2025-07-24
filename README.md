@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Bruno Loducca, prazer! 👋
 
-- 🎓 Estudante de Inteligência Artificial - FEI.
+- 🎓 Estudante de Inteligência Artificial - ESEG.
 
 - 🔭 Interesse em Deep Learning, IA's generativas, Engenharia de Machine Learning e desenvolvimento de software. 
 
