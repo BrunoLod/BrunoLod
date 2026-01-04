@@ -1,13 +1,10 @@
 ### Olá! Eu sou o Bruno Loducca, prazer! 👋
 
-- 🎓 Estudante de Inteligência Artificial - ESEG.
+- 🔭 Interesse em Deep Learning, processamento em linguagem natural, psicologia e neurociência computacional. 
 
-- 🔭 Interesse em Deep Learning, IA's generativas, Engenharia de Machine Learning e desenvolvimento de software. 
+- 🌱 Estudos : Deep Learning (para cenários descritivos / generativos), Machine Learning in Production, implementações com IA's generativas (Languange Agents, RAG e etc) e neurociência computacional. 
 
-- 🌱 Estudos : Deep Learning (para cenários descritivos / generativos), Machine Learning in Production, implementações com IA's generativas (Agents, RAG e etc) e Terraform (associado à criação de
-  infraestruturas como código para aplicações em serviços Cloud, como AWS, relevante a prática de engenharia de Machine Learning).
-
-- ⚙️ Ferramentas e linguagens : Python, LangChain, CrewAI, Terraform, Git, HTML, CSS, JavaScript e Figma
+- ⚙️ Ferramentas e linguagens : Python, LangChain, Git e Figma
 
 - 📫 Email: brunoloducca15@gmail.com.
 
