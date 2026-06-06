@@ -2,7 +2,7 @@
 
 - 🔭 Interesse em Deep Learning, processamento em linguagem natural, matemática, psicologia e ciência cognitiva. 
 
-- 🌱 Estudos : Deep Learning (para cenários descritivos / generativos), Machine Learning in Production, implementações com IA's generativas (Languange Agents, RAG e etc) e neurociência computacional. 
+- 🌱 Estudos : Deep Learning (para cenários descritivos / generativos), Machine Learning in Production, implementações com IA's generativas (Languange Agents, RAG e etc) e ciência cognitiva, psicologia e neurociência computacional. 
 
 - ⚙️ Ferramentas e linguagens : Python, LangChain, Git e Figma
 
